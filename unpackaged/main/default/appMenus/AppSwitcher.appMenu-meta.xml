@@ -104,4 +104,8 @@
         <name>App2</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>DEVHUB_u3x3qa8ucep4swldkjyb</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
 </AppMenu>
